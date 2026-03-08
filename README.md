@@ -32,6 +32,14 @@ Future improvements will include:
 - AI-generated attack explanations
 - automated alerting
 - SIEM integration
+- Requests library
+- Local LLM via Ollama
+- Log analysis automation
+
+Why this matters:
+
+Security analysts often review large amounts of logs.
+AI-assisted analysis can help quickly summarize suspicious activity and highlight potential threats.
 
 ---
 
@@ -89,6 +97,8 @@ Planned features:
 ---
 
 # Author
+@dzejkv
 
 Learning cybersecurity, AI-assisted security analysis, and SOC engineering.
 ![Output Screenshot](output.png)
+![AI Output Screenshot](outputAI.png)
